@@ -6,7 +6,7 @@ Welcome to the microbenchmarking-setup. This is a piece of code to run example b
 
 The workspace contains two folders by default, where:
 
-- `app/src/main/java-org-example-app/MyBenchmark.java`: the folder to maintain sources
+- `app/src/main/java-org-example-app/MyBenchmark.java`: the entry point folder
 - `lib`: the future folder to maintain potential dependencies
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
