@@ -1,6 +1,6 @@
 ## Getting Started
 
-Welcome to the microbenchmarking-setup. This is a piece of code to run example benchmarks on complciated JSON parsing e.g., decoding.
+Welcome to the microbenchmarking-setup. This is a piece of code to run example benchmarks on complicated JSON parsing e.g., decoding.
 
 ## Folder Structure
 
